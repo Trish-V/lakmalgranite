@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Aug 2022 18:25:50 at https://n.foxdsgn.com/coca-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://n.foxdsgn.com/coca-html/index.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://n.foxdsgn.com/coca-html/index.html -O1 "D:\Templates\Template\lakmalgranite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://n.foxdsgn.com/coca-html/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:25:51	Warning: 	File not parsed, looks like binary: https://n.foxdsgn.com/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 3 seconds : 474 links scanned, 473 files written (27801852 bytes overall) [24304985 bytes received at 100020 bytes/sec], 5347333 bytes transferred using HTTP compression in 222 files, ratio 27%, 59.2 requests per connection
+(No errors, 1 warnings, 0 messages)
