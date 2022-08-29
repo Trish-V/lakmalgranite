@@ -4129,7 +4129,10 @@ input[type=submit]:hover {
 
 @media screen and (max-width:1024px) {
     .cs-logo--header {
-        width: 80%
+        width: 20%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex
     }
 }
 
@@ -13247,13 +13250,35 @@ span.wpcf7-not-valid-tip {
 
 @media screen and (max-width:991px) {
     .cs-footer--full {
-        padding: 50px 0
+        padding: 1px 90px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex
+        
+        
     }
 
     .cs-footer--full .cs-footer__copyright {
-        margin-bottom: 30px
+        margin-bottom: 30px;
+        width: 60%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        align-self: center;
+        margin-left: auto;
+  margin-right: auto;
+        
     }
 }
+
+/* @media screen and (max-width:1024px) {
+    .cs-logo--header {
+        width: 20%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex
+    }
+} */
 
 .cs-footer__align--simple {
     display: -webkit-box;
@@ -13291,7 +13316,8 @@ span.wpcf7-not-valid-tip {
 }
 
 .cs-footer__copyright * {
-    color: #fff
+    color: #fff;
+    align-items: center;
 }
 
 .cs-footer__socials--simple {
